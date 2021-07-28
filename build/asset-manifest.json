@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/trivia-game/static/css/main.3530220a.chunk.css",
-    "main.js": "/trivia-game/static/js/main.da541cdb.chunk.js",
-    "main.js.map": "/trivia-game/static/js/main.da541cdb.chunk.js.map",
+    "main.css": "/trivia-game/static/css/main.cd003f11.chunk.css",
+    "main.js": "/trivia-game/static/js/main.6e56ef71.chunk.js",
+    "main.js.map": "/trivia-game/static/js/main.6e56ef71.chunk.js.map",
     "runtime-main.js": "/trivia-game/static/js/runtime-main.34810379.js",
     "runtime-main.js.map": "/trivia-game/static/js/runtime-main.34810379.js.map",
-    "static/js/2.3455ec4d.chunk.js": "/trivia-game/static/js/2.3455ec4d.chunk.js",
-    "static/js/2.3455ec4d.chunk.js.map": "/trivia-game/static/js/2.3455ec4d.chunk.js.map",
+    "static/js/2.ae4bef1a.chunk.js": "/trivia-game/static/js/2.ae4bef1a.chunk.js",
+    "static/js/2.ae4bef1a.chunk.js.map": "/trivia-game/static/js/2.ae4bef1a.chunk.js.map",
     "index.html": "/trivia-game/index.html",
-    "precache-manifest.e07ede492456bee01b2fe900f0c88375.js": "/trivia-game/precache-manifest.e07ede492456bee01b2fe900f0c88375.js",
+    "precache-manifest.f23d65030b2bdad2436f10ac571bbec7.js": "/trivia-game/precache-manifest.f23d65030b2bdad2436f10ac571bbec7.js",
     "service-worker.js": "/trivia-game/service-worker.js",
-    "static/css/main.3530220a.chunk.css.map": "/trivia-game/static/css/main.3530220a.chunk.css.map",
-    "static/js/2.3455ec4d.chunk.js.LICENSE": "/trivia-game/static/js/2.3455ec4d.chunk.js.LICENSE",
+    "static/css/main.cd003f11.chunk.css.map": "/trivia-game/static/css/main.cd003f11.chunk.css.map",
+    "static/js/2.ae4bef1a.chunk.js.LICENSE": "/trivia-game/static/js/2.ae4bef1a.chunk.js.LICENSE",
     "static/media/trivia.png": "/trivia-game/static/media/trivia.466d153e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.34810379.js",
-    "static/js/2.3455ec4d.chunk.js",
-    "static/css/main.3530220a.chunk.css",
-    "static/js/main.da541cdb.chunk.js"
+    "static/js/2.ae4bef1a.chunk.js",
+    "static/css/main.cd003f11.chunk.css",
+    "static/js/main.6e56ef71.chunk.js"
   ]
 }

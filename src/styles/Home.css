@@ -57,3 +57,16 @@ button {
 button:hover {
   opacity: 1;
 }
+
+.footer {
+  background: #ccc;
+  margin-top: auto;
+  padding: 10px;
+  text-align: center;
+  width: 100vw;
+}
+
+.footer a {
+  color: rgb(78, 78, 78);
+  text-decoration: none;
+}

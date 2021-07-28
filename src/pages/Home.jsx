@@ -6,6 +6,7 @@ import PropTypes from 'prop-types';
 import { actionAvatar, actionName, actionScore } from '../actions';
 import '../styles/Home.css';
 import Logo from '../components/Logo';
+import Footer from '../components/Footer';
 
 class Home extends Component {
   constructor() {
@@ -86,6 +87,7 @@ class Home extends Component {
             </Link>
           </div>
         </form>
+        <Footer />
       </div>
     );
   }
