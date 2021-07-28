@@ -6,6 +6,7 @@ import { fetchQuestions } from '../services/api';
 import Question from '../components/Question';
 import { actionClicked, actionTimer, actionBtn, actionDisabled } from '../actions';
 import '../styles/Game.css';
+import Loading from '../components/Loading';
 
 class Game extends Component {
   constructor() {
@@ -81,7 +82,7 @@ class Game extends Component {
     const { loading, index } = this.state;
     const { hiddenBtn } = this.props;
     if (loading) {
-      return <div>Loading...</div>;
+      return <Loading />;
     }
     const { questions } = this.state;
     return (

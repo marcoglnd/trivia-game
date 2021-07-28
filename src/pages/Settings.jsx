@@ -6,6 +6,7 @@ import { actionDifficulty, actionCategory } from '../actions';
 import { fetchCategory } from '../services/api';
 import Logo from '../components/Logo';
 import '../styles/Settings.css';
+import Loading from '../components/Loading';
 
 class Settings extends Component {
   constructor() {
@@ -42,7 +43,7 @@ class Settings extends Component {
   render() {
     const { loading, categories } = this.state;
     if (loading) {
-      return <div>Loading...</div>;
+      return <Loading />;
     }
     return (
       <div className="settings">
