@@ -1,0 +1,37 @@
+.ranking {
+  align-items: center;
+  background: #333;
+  color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 0 auto;
+  width: 100vw;
+}
+
+.player {
+  align-items: center;
+  background: #fafafa;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  color: #333;
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding: 20px;
+  width: 30%;
+}
+
+.home-btn {
+  background: #fafafa;
+  border: none;
+  border-radius: 3px;
+  color: #333;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px;
+  opacity: 0.8;
+  padding: 10px;
+}
