@@ -9,7 +9,7 @@ import store from './store';
 import './styles/Global.css';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/trivia-game">
     <Provider store={ store }>
       <App />
     </Provider>
